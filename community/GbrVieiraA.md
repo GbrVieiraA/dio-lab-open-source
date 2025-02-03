@@ -1,6 +1,6 @@
 # Olá, sou o Gabriel!
 
-Sou apaixonado por tecnologia, especialmente por programação, desenvolvimento web e inteligência artificial. Atualmente estou aprimorando minhas habilidades em Python e React, e adoro colaborar com projetos open source.
+Sou apaixonado por tecnologia, especialmente por programação, inteligência artificial. Atualmente estou aprimorando minhas habilidades em Python, e adoro colaborar com projetos open source.
 
 🎯 **Objetivo:** Aprender, compartilhar e contribuir com projetos incríveis!
 
