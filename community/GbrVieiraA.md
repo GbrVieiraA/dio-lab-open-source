@@ -1,48 +1,51 @@
-# Olá, sou o Gabriel!
+# 👾 Olá, sou Gabriel! 👾
 
-Sou apaixonado por tecnologia, especialmente por programação, desenvolvimento web e inteligência artificial. Atualmente estou aprimorando minhas habilidades em Python e React, e adoro colaborar com projetos open source.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" width="50%">
+</p>
 
-🎯 **Objetivo:** Aprender, compartilhar e contribuir com projetos incríveis!
-
----
-
-## Habilidades
-
-### 🚀 Linguagens e Tecnologias
-- ![Python](https://img.shields.io/badge/Python-9-blue)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-- ![HTML5](https://img.shields.io/badge/HTML5-orange)
-- ![CSS3](https://img.shields.io/badge/CSS3-5-blue)
+> **"O código é a verdade em um mundo digital."** 🚀
 
 ---
 
-## Estatísticas
+## 👨‍💻 **Sobre mim:**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&count_private=true&hide_title=true)
+🎯 Sou um desenvolvedor Python, com habilidades também em **HTML** e **CSS**. No momento, estou mergulhando em **Django**, **SQL** e no maravilhoso universo dos **bancos de dados**. 
 
----
+🔥 Busco entender como as tecnologias interagem entre si, com foco em tornar aplicações mais rápidas e escaláveis. Adoro construir soluções que são tanto eficientes quanto elegantes.
 
-## Projetos
-
-### 💻 Meus Projetos
-- [Meu Portfólio Pessoal](https://github.com/GbrVieiraA/Portflio-pessoal)
-- [gerador certificado](https://github.com/GbrVieiraA/generate-certificate-python)
-- [registro de estudante automatico](https://github.com/GbrVieiraA/register-student-python)
+💡 Sempre aprendendo, sempre criando.
 
 ---
 
-## Artigos e Desafios
+## 🔧 **Tecnologias e Ferramentas que uso:**
 
-- [Introdução ao Python](https://www.dio.me/articles/introducao-ao-python)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+</p>
 
 ---
 
-## Vamos colaborar juntos!
+## 🔥 **Meus Projetos**
 
-Fique à vontade para explorar meus projetos, abrir issues ou até mesmo enviar pull requests. Estou sempre disposto a aprender com os outros e a contribuir com a comunidade open source!
+Aqui estão alguns projetos que fiz recentemente. Esses projetos representam a essência do que sou como programador e como desenvolvedor.
+
+🌐 **[Meu Portifolio](https://github.com/GbrVieiraA/Portflio-pessoal)**  
+
+⚙️ **[Gerador de certificado](https://github.com/GbrVieiraA/generate-certificate-python)**  
 
 ---
 
-📫 **Como me encontrar:**
-- [LinkedIn](https://www.linkedin.com/in/gabriel-vieiraa/)
+
+## 📡 **Conecte-se comigo!**
+
+- **LinkedIn**: [Gabriel LinkedIn](https://www.linkedin.com/in/gabriel-vieiraa/)
+
+- **Email**: design.gabrieltech@gmail.com
+  
+💥 Estou sempre pronto para colaborar e trocar ideias sobre novas tecnologias! 💥
 
